@@ -37,7 +37,7 @@ cd chatbot-api
 **2. Install dependencies**
 
 ```bash
-pip install fastapi uvicorn groq pydantic python-dotenv
+pip install -r requirements.txt
 ```
 
 **3. Configure environment variables**
