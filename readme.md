@@ -14,14 +14,7 @@ A RESTful API built with FastAPI that enables multi-session, context-aware conve
 
 ---
 
-## Project Structure
 
-```
-project/
-├── main.py          # Main application file
-├── .env             # Environment variables (not committed)
-└── requirements.txt # Project dependencies
-```
 
 ---
 
